@@ -1,1 +1,1 @@
-This folder in the holbertonschool-zero_day repo contains all files relating to the 0x00 Vagrant project.
+0x00 Vagrant is a Holberton project about the Vagrant program, what it is, and how to use it.
