@@ -1,0 +1,1 @@
+0x01 Emacs is a Holberton project about the emacs program, what it is, and how to use it.
